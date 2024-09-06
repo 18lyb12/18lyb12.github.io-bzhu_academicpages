@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "猪猪老师"
+title                    : "zhu zhu lao shi"
 title_separator          : "-"
-name                     : &name "小猪咪"
-description              : &description "我是一只小猪咪"
+name                     : &name "xiao zhu mi"
+description              : &description "I'm a xiao zhu mi"
 url                      : http://127.0.0.1:5000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
