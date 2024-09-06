@@ -27,8 +27,8 @@ author:
   bio              : "我是一只小香咪"
   location         : "小哥咪的心中"
   employer         : "重庆儿童医院"
-  uri              : "http://127.0.0.1:5000/"
-  email            : "bzhu93@gmail.com" 
+  uri              : "http://127.0.0.1:5000/" # URL
+  email            : "bzhu93@gmail.com"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
