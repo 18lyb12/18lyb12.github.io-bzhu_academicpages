@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 title                    : "猪猪老师"
 title_separator          : "-"
 name                     : &name "小猪咪"
