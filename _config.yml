@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
-title                    : "zhu zhu lao shi"
+locale                   : "zh-CN"
+title                    : "猪猪老师"
 title_separator          : "-"
-name                     : &name "xiao zhu mi"
-description              : &description "I'm a xiao zhu mi"
+name                     : &name "小猪咪"
+description              : &description "我是一只小猪咪"
 url                      : https://18lyb12.github.io/18lyb12.github.io-bzhu_academicpages # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "18lyb12.github.io/18lyb12.github.io-bzhu_academicpages"
@@ -22,13 +22,13 @@ repository               : "18lyb12.github.io/18lyb12.github.io-bzhu_academicpag
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "小香咪"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "我是一只小香咪"
+  location         : "小哥咪的心中"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "bzhu93@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
