@@ -12,7 +12,7 @@ title                    : "猪猪老师"
 title_separator          : "-"
 name                     : &name "小猪咪"
 description              : &description "我是一只小猪咪"
-url                      : https://18lyb12.github.io/18lyb12.github.io-bzhu_academicpages # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://18lyb12.github.io/18lyb12.github.io-bzhu_academicpages" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "18lyb12.github.io/18lyb12.github.io-bzhu_academicpages"
 
@@ -72,6 +72,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
+  proby            : "http://127.0.0.1:5000/"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
