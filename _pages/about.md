@@ -9,11 +9,11 @@ redirect_from:
 
 正在添加更多内容......
 1
-[gif](../images/working-loop.gif)
-[png](../images/profile.png)
-2
-<img src='/images/working-loop.gif'>
-[png](/images/profile.png)
+![gif](../images/working-loop.gif)
+![png](../images/profile.png)
 3
-<img src='working-loop.gif'>
+<img src='./working-loop.gif'>
+4
+
+![gif](../images/working-loop.gif)
 [png](./images/profile.png)
