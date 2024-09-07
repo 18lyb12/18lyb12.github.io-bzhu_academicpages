@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 正在添加更多内容......
+
+<img src='../images/working-loop.gif'>
