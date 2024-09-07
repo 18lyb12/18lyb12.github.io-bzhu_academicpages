@@ -15,5 +15,5 @@ redirect_from:
 <img src='./working-loop.gif'>
 4
 
-![gif](../images/working-loop.gif)
+![gif](./images/working-loop.gif)
 [png](./images/profile.png)
