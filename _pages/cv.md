@@ -25,7 +25,7 @@ Work experience
 Skills
 ======
 * Biochemistry
-  * Dot Blot 
+  * Dot Blot
   * Immunohistochemistry
   * Immunofluorescence
   * Meso Scale Discovery
